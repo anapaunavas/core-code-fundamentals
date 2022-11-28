@@ -31,9 +31,13 @@ Define an algorithm that is able to convert temperatures from Celsius to Fahrenh
 Design an algorithm to calculate the volume of a pyramid, a cube and a sphere.
 
 1. Volume for a pyramid
+
 a. Ask for the base length, base width and height of the pyramid
+
 b. Name each of the variables: base_length, base_width and height
+
 c. Replace the values of each variable on the following formula, which will be the volume of the pyramid: 1/3 * base_length * base_width * height
+
 d. Operate and print the value of the volume
 
 2. Volume for a cube
