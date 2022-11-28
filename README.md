@@ -30,25 +30,21 @@ Define an algorithm that is able to convert temperatures from Celsius to Fahrenh
 
 Design an algorithm to calculate the volume of a pyramid, a cube and a sphere.
 
-1. Volume for a pyramid
+Volume for a pyramid
+1. Ask for the base length, base width and height of the pyramid
+2. Name each of the variables: base_length, base_width and height
+3. Replace the values of each variable on the following formula, which will be the volume of the pyramid: 1/3 * base_length * base_width * height
+4. Operate and print the value of the volume
 
-a. Ask for the base length, base width and height of the pyramid
+Volume for a cube
+1. Ask for one of the sides of the cube
+2. Name the variable as "a"
+3. Replace the value if the variable on the following formula, which will be the volume of the cube: a * a * a
+4. Operate and print the value of the volume
 
-b. Name each of the variables: base_length, base_width and height
-
-c. Replace the values of each variable on the following formula, which will be the volume of the pyramid: 1/3 * base_length * base_width * height
-
-d. Operate and print the value of the volume
-
-2. Volume for a cube
-a. Ask for one of the sides of the cube
-b. Name the variable as "a"
-c. Replace the value if the variable on the following formula, which will be the volume of the cube: a * a * a
-d. Operate and print the value of the volume
-
-3. Volume of a sphere
-a. Ask for the radius of the sphere
-b. Name the variable of the radius as "r"
-c. If only the diameter of the sphere is given, then divide it by 2 to find the radius
-d. Replace the value of the radius on the following formula, which will be the volume of the sphere: 4/3 * π * r^3
-e. Operate and print the value of the volume
+Volume of a sphere
+1. Ask for the radius of the sphere
+2. Name the variable of the radius as "r"
+3. If only the diameter of the sphere is given, then divide it by 2 to find the radius
+4. Replace the value of the radius on the following formula, which will be the volume of the sphere: 4/3 * π * r^3
+5. Operate and print the value of the volume
