@@ -7,3 +7,11 @@ function firstWord(s) {
   return s.substr(0, firstBlank);
 }
 ```
+
+**String: replace()**
+
+```
+function normalize(str){
+  return str.replace(/-/g, '/');
+}
+```
