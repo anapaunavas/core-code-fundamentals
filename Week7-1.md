@@ -15,3 +15,9 @@ function normalize(str){
   return str.replace(/-/g, '/');
 }
 ```
+
+**Increment**
+
+```
+The value of x is 7
+```
