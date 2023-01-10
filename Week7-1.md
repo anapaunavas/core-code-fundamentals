@@ -21,3 +21,12 @@ function normalize(str){
 ```
 The value of x is 7
 ```
+
+**Fahrenheit**
+
+```
+function toFahrenheit(C){
+  return F = 1.8 * C + 32;
+return F;
+}
+```
