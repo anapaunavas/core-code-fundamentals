@@ -30,3 +30,12 @@ function toFahrenheit(C){
 return F;
 }
 ```
+
+**Boolean**
+
+```
+function nand(a, b) {
+  let and = a && b;
+  return !and;
+}
+```
